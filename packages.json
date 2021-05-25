@@ -1,1 +1,39 @@
  
+[
+  {
+    "package": "rStrava",
+    "url": "https://github.com/fawda123/rStrava"
+  },
+  {
+    "package": "NeuralNetTools",
+    "url": "https://github.com/fawda123/NeuralNetTools"
+  },
+  {
+    "package": "SWMPr",
+    "url": "https://github.com/fawda123/SWMPr"
+  },
+  {
+    "package": "ggord",
+    "url": "https://github.com/fawda123/ggord"
+  },
+  {
+    "package": "WtRegDO",
+    "url": "https://github.com/fawda123/WtRegDO"
+  },
+  {
+    "package": "imputeTestbench",
+    "url": "https://github.com/fawda123/imputeTestbench"
+  },
+  {
+    "package": "tbeptools",
+    "url": " https://github.com/tbep-tech/tbeptools"
+  },
+  {
+    "package": "wqtrends",
+    "url": " https://github.com/tbep-tech/wqtrends"
+  },
+  {
+    "package": "peptools",
+    "url": " https://github.com/tbep-tech/peptools"
+  }
+]
