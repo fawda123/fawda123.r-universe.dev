@@ -17,17 +17,12 @@
     "url": "https://github.com/fawda123/ggord"
   },
   {
-    "package": "WtRegDO",
-    "url": "https://github.com/fawda123/WtRegDO",
-    "branch": "sine"
-  },
-  {
     "package": "imputeTestbench",
     "url": "https://github.com/neerajdhanraj/imputeTestbench"
   },
   {
     "package": "WRTDStidal",
-    "url": "https://github.com/fawda123/WRTDStidal",
+    "url": "https://github.com/fawda123/wtreg_for_estuaries",
     "branch": "v1.1.3"
   },
   {
