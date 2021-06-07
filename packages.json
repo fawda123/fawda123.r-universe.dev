@@ -41,5 +41,9 @@
     "package": "WtRegDO",
     "url": "https://github.com/fawda123/WtRegDO", 
     "branch": "sine"
+  },
+  {
+    "package": "micromap",
+    "url": "https://github.com/USEPA/micromap"
   }
 ]
