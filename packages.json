@@ -36,5 +36,10 @@
   {
     "package": "peptools",
     "url": "https://github.com/tbep-tech/peptools"
+  },
+  {
+    "package": "WtRegDO",
+    "url": "https://github.com/fawda123/WtRegDO", 
+    "branch": "sine"
   }
 ]
