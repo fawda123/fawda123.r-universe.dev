@@ -16,14 +16,13 @@
     "package": "ggord",
     "url": "https://github.com/fawda123/ggord"
   },
-  {
+ 
     "package": "imputeTestbench",
     "url": "https://github.com/neerajdhanraj/imputeTestbench"
   },
   {
     "package": "WRTDStidal",
-    "url": "https://github.com/fawda123/wtreg_for_estuaries",
-    "branch": "v1.1.3"
+    "url": "https://github.com/fawda123/wtreg_for_estuaries"
   },
   {
     "package": "tbeptools",
