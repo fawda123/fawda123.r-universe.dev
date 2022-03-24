@@ -44,5 +44,9 @@
   {
     "package": "micromap",
     "url": "https://github.com/USEPA/micromap"
+  },
+  {
+    "package": "EBASE",
+    "url": "https://github.com/fawda123/EBASE"
   }
 ]
