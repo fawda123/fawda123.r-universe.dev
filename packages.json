@@ -17,12 +17,8 @@
     "url": "https://github.com/fawda123/ggord"
   },
   {
-    "package": "WtRegDO",
-    "url": "https://github.com/fawda123/WtRegDO"
-  },
-  {
     "package": "imputeTestbench",
-    "url": "https://github.com/fawda123/imputeTestbench"
+    "url": "https://github.com/neerajdhanraj/imputeTestbench"
   },
   {
     "package": "WRTDStidal",
@@ -39,5 +35,22 @@
   {
     "package": "peptools",
     "url": "https://github.com/tbep-tech/peptools"
+  },
+  {
+    "package": "WtRegDO",
+    "url": "https://github.com/fawda123/WtRegDO", 
+    "branch": "sine"
+  },
+  {
+    "package": "micromap",
+    "url": "https://github.com/USEPA/micromap"
+  },
+  {
+    "package": "EBASE",
+    "url": "https://github.com/fawda123/EBASE"
+  },
+  {
+    "package": "MassWateR", 
+    "url": "https://github.com/massbays-tech/MassWateR"
   }
 ]
