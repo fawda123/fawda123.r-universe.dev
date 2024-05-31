@@ -22,7 +22,11 @@
   },
   {
     "package": "WRTDStidal",
-    "url": "https://github.com/fawda123/wtreg_for_estuaries"
+    "url": "https://github.com/fawda123/WRTDStidal"
+  },
+  {
+    "package": "tbeploads",
+    "url": "https://github.com/tbep-tech/tbeploads"
   },
   {
     "package": "tbeptools",
