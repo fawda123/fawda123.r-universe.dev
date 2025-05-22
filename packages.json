@@ -37,6 +37,10 @@
     "url": "https://github.com/tbep-tech/wqtrends"
   },
   {
+    "packages": "slrcsap",
+    "url": "https://github.com/tbep-tech/slrcsap"
+  },
+  {
     "package": "peptools",
     "url": "https://github.com/tbep-tech/peptools"
   },
