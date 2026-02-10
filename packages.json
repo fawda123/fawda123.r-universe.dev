@@ -59,5 +59,9 @@
   {
     "package": "MassWateR", 
     "url": "https://github.com/massbays-tech/MassWateR"
+  },
+  {
+    "package": "AquaSensR", 
+    "url": "https://github.com/massbays-tech/AquaSensR"
   }
 ]
