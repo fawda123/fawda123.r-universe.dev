@@ -33,6 +33,10 @@
     "url": "https://github.com/tbep-tech/tbeptools"
   },
   {
+    "package": "tbepreport",
+    "url": "https://github.com/tbep-tech/tbepreport"
+  },
+  {
     "package": "wqtrends",
     "url": "https://github.com/tbep-tech/wqtrends"
   },
